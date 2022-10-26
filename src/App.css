@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.navBg{
+  background-color:#6086d28b;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.saludo{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color:cadetblue;
+  text-align: center;
+
+}
+
+.IcoCarrito{
+  width: 40%;
+  margin-right: 20;
+  height: 40;
+  color:black;
+
+}
