@@ -21,8 +21,8 @@ function BasicExample() {
           <Nav className="me-auto">
 
             <Nav.Link href="#home" >Home</Nav.Link>
-            <Nav.Link href="#link">Tienda</Nav.Link>
-            <Nav.Link href="#link">Contacto</Nav.Link>
+            <Nav.Link href="#tienda">Tienda</Nav.Link>
+            <Nav.Link href="#contacto">Contacto</Nav.Link>
           </Nav>
         </Navbar.Collapse>
         <CartWidget/>

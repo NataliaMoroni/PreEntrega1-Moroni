@@ -8,10 +8,11 @@ export default function CartWidget(){
     return (
       <>
         <div>
-          <a href='#'><img className="IcoCarrito"src="icono" alt="carrito" /></a>  
+          <a href='#'> 
+          <img className='IcoCarrito' src="icono" alt="carrito"></img>
+          </a>  
         </div>
       </>  
     )
   }
-  
   
