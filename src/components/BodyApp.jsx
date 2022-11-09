@@ -5,9 +5,9 @@ export default function BodyApp(){
     return (
         <div>
           <h1>Página en proceso</h1>
-          <p id='#home'></p>
+          {/*<p id='#home'></p>
           <p id="#tienda"></p>
-          <p id="#contacto"></p>
+    <p id="#contacto"></p>*/}
         </div>
     )
  }

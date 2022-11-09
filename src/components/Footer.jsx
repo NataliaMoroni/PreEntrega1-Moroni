@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 export default function Footer(){
     return (
@@ -6,7 +7,8 @@ export default function Footer(){
         <div>
         <ul>
             <li>
-             <a href="https://www.facebook.com/">Facebook</a>
+            <Link to={`https://www.facebook.com/`}>Facebook</Link>   
+             {/*<a href="https://www.facebook.com/">Facebook</a>*/}
             </li>
         </ul>
         </div>
